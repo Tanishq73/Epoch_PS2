@@ -16,7 +16,8 @@ precision    recall  f1-score   support
    macro avg       1.00      1.00      1.00         6
 weighted avg       1.00      1.00      1.00         6
 
-
+Overall(For target_images):
+100%
 
 Resources used: 
 https://www.youtube.com/watch?v=oXZThwEF4r0
